@@ -18,18 +18,196 @@ References
 
 \[Sakurai\] =  Sakurai, J. J. _Modern Quantum Mechanics_. Cambridge University Press, 2017. ISBN: 9781108422413.
 
-| WEEK # | READING |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 6 {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter XI {{< br >}}{{< br >}} \[Shankar\] Chapter 17 {{< br >}}{{< br >}} \[Sakurai\] Sections 5.1-5.3 {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 6 {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter XI and Chapter XII {{< br >}}{{< br >}} \[Shankar\] Chapter 17 {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} \[Griffiths\] Sections 6.3, 6.4, and 6.5 {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter XII {{< br >}}{{< br >}} \[Shankar\] Chapter 17 {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 8 on WKB approximation {{< br >}}{{< br >}} \[Shankar\] Section 16.2 {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 9 {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter XIII and/or \[Shankar\] Chapter 18 {{< br >}}{{< br >}}  |
-| 6 | \[No readings\] |
-| 7 | \[No readings\] |
-| 8 | \[Griffiths\] Sections 9.2 and 9.3 for interactions of atoms with light. Chapter 10 for the adiabatic approximation. |
-| 9 |  {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter VI Complement E, which has a nice treatment of Landau levels. {{< br >}}{{< br >}} \[Sakurai\] pp. 130-139 {{< br >}}{{< br >}} \[Shankar\]’s treatment of Landau levels begins from Page 587. {{< br >}}{{< br >}}  |
-| 10 | \[No readings\] |
-| 11 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 11 {{< br >}}{{< br >}} \[Cohen-Tannoudji\] Chapter VIII and/or \[Shankar\] Chapter 19 {{< br >}}{{< br >}}  |
-| 12 | \[No readings\] |
-| 13 |  {{< br >}}{{< br >}} \[Griffiths\] Chapter 5 {{< br >}}{{< br >}} Optional: {{< br >}}{{< br >}} *   \[Shankar\] Chapter 10{{< br >}}*   \[Cohen-Tannoudji\] Chapter XIV {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+READING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 6
+
+\[Cohen-Tannoudji\] Chapter XI
+
+\[Shankar\] Chapter 17
+
+\[Sakurai\] Sections 5.1-5.3
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 6
+
+\[Cohen-Tannoudji\] Chapter XI and Chapter XII
+
+\[Shankar\] Chapter 17
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Sections 6.3, 6.4, and 6.5
+
+\[Cohen-Tannoudji\] Chapter XII
+
+\[Shankar\] Chapter 17
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 8 on WKB approximation
+
+\[Shankar\] Section 16.2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 9
+
+\[Cohen-Tannoudji\] Chapter XIII and/or \[Shankar\] Chapter 18
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+\[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+\[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+\[Griffiths\] Sections 9.2 and 9.3 for interactions of atoms with light. Chapter 10 for the adiabatic approximation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Cohen-Tannoudji\] Chapter VI Complement E, which has a nice treatment of Landau levels.
+
+\[Sakurai\] pp. 130-139
+
+\[Shankar\]’s treatment of Landau levels begins from Page 587.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+\[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 11
+
+\[Cohen-Tannoudji\] Chapter VIII and/or \[Shankar\] Chapter 19
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+\[No readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Chapter 5
+
+Optional:
+
+*   \[Shankar\] Chapter 10
+*   \[Cohen-Tannoudji\] Chapter XIV
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

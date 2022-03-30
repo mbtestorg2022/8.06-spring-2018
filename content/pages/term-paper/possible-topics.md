@@ -14,7 +14,7 @@ Below is a list of possible topics:
 2.  Nuclear Magnetic Resonance. Since we have spent some time on this in class, you should go beyond it. Some possibilities are dynamic nuclear polarization, nuclear quadrupole resonance, composite pulses, spin-echo, liquid vs solid-state NMR, relaxation mechanisms, or its application in particular experimental/medical contexts.
 3.  Magnetic monopoles, gauge invariance, and the Dirac quantization condition for the magnetic charge of a magnetic monopole.
 4.  Scattering off a magnetic flux tube.
-5.  Bell’s theorem and its variants. Again since we have seen this in _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/)_, you will need to go beyond it. Some possibilites are the Tsirelson bound, the question of loopholes and/or various experimental tests or a discussion of other nonlocal games.
+5.  Bell’s theorem and its variants. Again since we have seen this in _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013)_, you will need to go beyond it. Some possibilites are the Tsirelson bound, the question of loopholes and/or various experimental tests or a discussion of other nonlocal games.
 6.  Neutrino oscillations in vacuum.
 7.  Oscillation phenomena involving kaons and/or B mesons.
 8.  The solar neutrino problem.

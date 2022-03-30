@@ -7,7 +7,7 @@ uid: 7a9328d4-e766-d2bf-34c8-47b147aad85e
 Project Summary
 ---------------
 
-Everyone in this course will be expected to research, write and “publish” a short paper on a topic related to the content of _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013/)_ or _[8.06 Quantum Physics III]({{< baseurl >}}/pages/index.htm)_. The paper can explain a physical effect or further explicate ideas or problems covered in the courses. It can be based on the student’s own calculations and/or library research. The paper should be written in the style and format of a brief journal article and should aim at an audience of 8.06 students.
+Everyone in this course will be expected to research, write and “publish” a short paper on a topic related to the content of _[8.05 Quantum Physics II](/courses/8-05-quantum-physics-ii-fall-2013)_ or _[8.06 Quantum Physics III]({{< baseurl >}}/pages/index.htm)_. The paper can explain a physical effect or further explicate ideas or problems covered in the courses. It can be based on the student’s own calculations and/or library research. The paper should be written in the style and format of a brief journal article and should aim at an audience of 8.06 students.
 
 Writing, editing, revising and “publishing” skills are an integral part of the project. Each of you will ask another student to edit your draft and will then prepare a final draft on the basis of the suggestions of your “peer editor.” We will supply templates for the RevTeX version of LaTeX (used by the _Journal Physical Review_) so that you can prepare your paper in a finished, publishable, form. In there is sufficient demand, we can also arrange a LaTeX tutorial.
 
